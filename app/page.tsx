@@ -24,7 +24,7 @@ export default function Component() {
               </p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://store.steampowered.com/app/2778820/_Speakrit/">
                 <Button className="bg-white text-[#dc2626]">前往言灵计划</Button>
               </Link>
             </CardFooter>
@@ -41,7 +41,7 @@ export default function Component() {
               </p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://hong.greatdk.com/">
                 <Button className="bg-white text-[#34d399]">前往哄哄模拟器</Button>
               </Link>
             </CardFooter>
@@ -61,7 +61,7 @@ export default function Component() {
               </p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://qinqi.chatmindai.net/chat">
                 <Button className="bg-white text-[#f59e0b]">前往决战拜年之巅</Button>
               </Link>
             </CardFooter>
@@ -90,7 +90,7 @@ export default function Component() {
               <p className="text-sm mt-4">Discord game that players can build card with AI</p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://discord.com/invite/ByH4muZG">
                 <Button className="bg-white text-[#10b981]">Go to Magic Seeker</Button>
               </Link>
             </CardFooter>
@@ -109,7 +109,7 @@ export default function Component() {
               </p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://store.steampowered.com/app/2542850/1001_Nights/">
                 <Button className="bg-white text-[#ef4444]">Go to 1001 nights</Button>
               </Link>
             </CardFooter>
@@ -126,7 +126,7 @@ export default function Component() {
               </p>
             </CardContent>
             <CardFooter>
-              <Link href="#">
+              <Link href="https://aiu.ai-topia.com/openinstall/game/list">
                 <Button className="bg-white text-[#3b82f6]">前往:哎哟,恋爱怎么这么难</Button>
               </Link>
             </CardFooter>
